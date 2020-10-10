@@ -71,3 +71,14 @@ windows/RNDeviceInfo/obj
 windows/.vs
 windows/packages
 windows/RNDeviceInfo/.vs/*
+
+# CPP
+windows/RNDeviceInfoCpp/x64
+windows/RNDeviceInfoCpp/x86
+windows/RNDeviceInfoCpp/ARM
+windows/RNDeviceInfoCpp/Generated Files
+windows/RNDeviceInfoCpp/packages
+windows/.vs
+windows/packages
+windows/RNDeviceInfoCpp/.vs/*
+windows/RNDeviceInfoCpp/*.pfx
